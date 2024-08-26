@@ -5,9 +5,6 @@
 
 ## Complete E-commerce website in  Laravel 10
 
-
-#### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
-
 ### Features :
 - ##### PWA (progressive web app)
 # ====== FRONT-END =======
